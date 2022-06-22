@@ -13,7 +13,7 @@ html5lib==1.0.1
 mysql-connector-python==8.0.19
 mysqlclient==1.4.6
 npyscreen==4.10.5
-numpy==1.18.2
+numpy==1.22.0
 oauthlib==3.1.0
 pantheon==1.0.12
 pipenv==2018.11.26
